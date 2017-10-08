@@ -1,0 +1,34 @@
+h1, h2, h3, h4, h5, h6, p {
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    font-family: 'Lato', 'Arial', 'sans-serif';
+    font-size: 15px;
+}
+
+header {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.40), rgba(0, 0, 0, 0.40)), url(img/back.png);
+    background-size: cover
+}
+
+.ion-ios-checkmark {
+    font-size: 200%;
+}
+
+.ion-ios-minus-outline {
+    font-size: 130%;
+}
+
+form {
+    background-color: rgba(0, 0, 0, 0.14);
+}
+
+.description, value {
+    font-size: 125%;
+}
+
+.list-item:nth-child(odd) {
+    background-color: rgba(0, 0, 0, 0.14);
+}

@@ -1,0 +1,29 @@
+/* X-Small devices */
+/* Small devices */
+@media (min-width: 0px) {
+    .text-center-xs {
+        text-align: center;
+    }
+}
+
+/* Small devices */
+@media (min-width: 576px) {
+    .text-center-xs {
+        text-align: left;
+    }
+}
+
+/* Medium devices */
+@media (min-width: 768px) {
+
+}
+
+/* Large devices */
+@media (min-width: 992px) {
+
+}
+
+/* x-large devices */
+@media (min-width: 1200px) {
+
+}
