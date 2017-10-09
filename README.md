@@ -3,13 +3,6 @@
 ```bash
 npm install 
 ```
-
-## Compile Sass & Run Dev Server
-
-```bash
-npm start
-```
-
 Files are compiled into /src
 # Description
 ![mid size small](https://user-images.githubusercontent.com/23549050/31362450-6bc93510-ad0d-11e7-9c99-17aea1f94183.png)
